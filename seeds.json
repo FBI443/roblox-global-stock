@@ -89,8 +89,8 @@
   },
   "Kitsune": {
     "Name": "Kitsune",
-    "Robux": 0,
-    "Sheckles": 1,
+    "Robux": 4000,
+    "Sheckles": 8000000,
     "BasicPrice": 10,
     "QuantityMin": 10,
     "QuantityMax": 20,
