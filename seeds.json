@@ -1,0 +1,101 @@
+{
+  "Carrot": {
+    "Name": "Carrot",
+    "Robux": 7,
+    "Sheckles": 10,
+    "BasicPrice": 18,
+    "QuantityMin": 5,
+    "QuantityMax": 25,
+    "ChanceMin": 1,
+    "ChanceMax": 1,
+    "Activated": true
+  },
+  "Watermelon": {
+    "Name": "Watermelon",
+    "Robux": 95,
+    "Sheckles": 2500,
+    "BasicPrice": 2708,
+    "QuantityMin": 1,
+    "QuantityMax": 6,
+    "ChanceMin": 1,
+    "ChanceMax": 8,
+    "Activated": true
+  },
+  "Pumpkin": {
+    "Name": "Pumpkin",
+    "Robux": 210,
+    "Sheckles": 3000,
+    "BasicPrice": 3000,
+    "QuantityMin": 1,
+    "QuantityMax": 4,
+    "ChanceMin": 1,
+    "ChanceMax": 10,
+    "Activated": true
+  },
+  "Apple": {
+    "Name": "Apple",
+    "Robux": 0,
+    "Sheckles": 3250,
+    "BasicPrice": 248,
+    "QuantityMin": 1,
+    "QuantityMax": 3,
+    "ChanceMin": 1,
+    "ChanceMax": 6,
+    "Activated": true
+  },
+  "Bamboo": {
+    "Name": "Bamboo",
+    "Robux": 99,
+    "Sheckles": 4000,
+    "BasicPrice": 3610,
+    "QuantityMin": 10,
+    "QuantityMax": 20,
+    "ChanceMin": 1,
+    "ChanceMax": 5,
+    "Activated": true
+  },
+  "Cactus": {
+    "Name": "Cactus",
+    "Robux": 497,
+    "Sheckles": 15000,
+    "BasicPrice": 3068,
+    "QuantityMin": 1,
+    "QuantityMax": 5,
+    "ChanceMin": 1,
+    "ChanceMax": 30,
+    "Activated": true
+  },
+  "Dragon Fruit": {
+    "Name": "Dragon Fruit",
+    "Robux": 597,
+    "Sheckles": 50000,
+    "BasicPrice": 4287,
+    "QuantityMin": 1,
+    "QuantityMax": 4,
+    "ChanceMin": 1,
+    "ChanceMax": 50,
+    "Activated": true
+  },
+  "Mushroom": {
+    "Name": "Mushroom",
+    "Robux": 249,
+    "Sheckles": 150000,
+    "BasicPrice": 136278,
+    "QuantityMin": 1,
+    "QuantityMax": 25,
+    "ChanceMin": 1,
+    "ChanceMax": 100,
+    "Activated": true
+  },
+  "Kitsune": {
+    "Name": "Kitsune",
+    "Robux": 0,
+    "Sheckles": 1,
+    "BasicPrice": 10,
+    "QuantityMin": 10,
+    "QuantityMax": 20,
+    "ChanceMin": 1,
+    "ChanceMax": 5,
+    "Activated": true
+  }
+}
