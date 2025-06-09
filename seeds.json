@@ -91,11 +91,11 @@
     "Name": "Kitsune",
     "Robux": 4000,
     "Sheckles": 8000000,
-    "BasicPrice": 10,
-    "QuantityMin": 10,
-    "QuantityMax": 20,
+    "BasicPrice": 1000000,
+    "QuantityMin": 1,
+    "QuantityMax": 50,
     "ChanceMin": 1,
-    "ChanceMax": 5,
+    "ChanceMax": 2,
     "Activated": true
   }
 }
