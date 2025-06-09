@@ -63,7 +63,7 @@
     "QuantityMax": 5,
     "ChanceMin": 1,
     "ChanceMax": 30,
-    "Activated": true
+    "Activated": false
   },
   "Dragon Fruit": {
     "Name": "Dragon Fruit",
@@ -74,7 +74,7 @@
     "QuantityMax": 4,
     "ChanceMin": 1,
     "ChanceMax": 50,
-    "Activated": true
+    "Activated": false
   },
   "Mushroom": {
     "Name": "Mushroom",
